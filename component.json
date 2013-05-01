@@ -1,0 +1,10 @@
+{
+  "name": "jqel",
+  "version": "0.0.0",
+  "main": "todo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
